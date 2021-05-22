@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.yaseen.App
+OpenIDE-Module-Implementation-Version: build101
+OpenIDE-Module-Layer: org/yaseen/App/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/yaseen/App/Bundle.properties
+
