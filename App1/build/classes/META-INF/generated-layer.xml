@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="yaseen">
+            <file name="org-yaseen-App-SomeAction.instance">
+                <!--org.yaseen.App.SomeAction-->
+                <attr bundlevalue="org.yaseen.App.Bundle#CTL_SomeAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.yaseen.App.SomeAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Help">
+            <file name="org-yaseen-App-SomeAction.shadow">
+                <!--org.yaseen.App.SomeAction-->
+                <attr name="originalFile" stringvalue="Actions/yaseen/org-yaseen-App-SomeAction.instance"/>
+                <attr intvalue="1600" name="position"/>
+            </file>
+            <file name="org-yaseen-App-SomeAction-separatorAfter.instance">
+                <!--org.yaseen.App.SomeAction-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="1650" name="position"/>
+            </file>
+            <file name="org-yaseen-App-SomeAction-separatorBefore.instance">
+                <!--org.yaseen.App.SomeAction-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="1550" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

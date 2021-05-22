@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="com-yaseen-App2-ActionApp2.instance">
+                <!--com.yaseen.App2.ActionApp2-->
+                <attr
+                    bundlevalue="com.yaseen.App2.Bundle#CTL_ActionApp2" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="com.yaseen.App2.ActionApp2"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Help">
+            <file name="com-yaseen-App2-ActionApp2.shadow">
+                <!--com.yaseen.App2.ActionApp2-->
+                <attr name="originalFile" stringvalue="Actions/Tools/com-yaseen-App2-ActionApp2.instance"/>
+                <attr intvalue="1750" name="position"/>
+            </file>
+            <file name="com-yaseen-App2-ActionApp2-separatorBefore.instance">
+                <!--com.yaseen.App2.ActionApp2-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="1700" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
