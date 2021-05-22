@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
-<module_updates timestamp="57/37/08/22/05/2021">
+<module_updates timestamp="06/11/09/22/05/2021">
 
 
 
 <module_group name="Tools">
 
-<module codenamebase="org.yaseen.App" distribution="org-yaseen-App.nbm" downloadsize="4473" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="718E9E2A" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
+<module codenamebase="org.yaseen.App" distribution="org-yaseen-App.nbm" downloadsize="4472" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="718E9E2A" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.yaseen.App" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="build101" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Long  Description" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.52.1, org.openide.awt &gt; 7.67.1, org.openide.util &gt; 9.7.1" OpenIDE-Module-Name="App1" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Short Description" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module codenamebase="com.yaseen.App2" distribution="com-yaseen-App2.nbm" downloadsize="4450" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="718E9E2A" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
+<module codenamebase="com.yaseen.App2" distribution="com-yaseen-App2.nbm" downloadsize="4449" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="718E9E2A" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="com.yaseen.App2" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="build101" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Long Description" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.52.1, org.openide.awt &gt; 7.67.1, org.openide.util &gt; 9.7.1" OpenIDE-Module-Name="App2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Short Description" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module codenamebase="com.yaseen.App3" distribution="com-yaseen-App3.nbm" downloadsize="4747" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="6DED856" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
+<module codenamebase="com.yaseen.App3" distribution="com-yaseen-App3.nbm" downloadsize="4755" homepage="https://quickhelpdesk.000webhostapp.com/AppUpdate/" license="6DED856" moduleauthor="Yaseen" needsrestart="false" releasedate="2021/05/22" targetcluster="platformapp2">
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="com.yaseen.App3" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="build01" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Tutorial for building distributed Application plugin for netbeans.&#10;What are you know&#10;1.Create Distributed Application&#10;2.Update Application&#10;3.Check for newest plugin" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.52.1, org.openide.awt &gt; 7.67.1, org.openide.util &gt; 9.7.1" OpenIDE-Module-Name="App3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="How to create a plugin for netbeans IDE." OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>

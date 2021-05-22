@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.yaseen.App">
-    <module_version install_time="1621672677192" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1621674666003" last="true" origin="installer" specification_version="1.0">
         <file crc="4111553132" name="config/Modules/org-yaseen-App.xml"/>
-        <file crc="2885796065" name="modules/org-yaseen-App.jar"/>
+        <file crc="189857776" name="modules/org-yaseen-App.jar"/>
     </module_version>
 </module>
